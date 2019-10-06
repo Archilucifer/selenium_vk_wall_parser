@@ -1,7 +1,7 @@
 import json
 
 
-class JsonParser:
+class JsonTools:
 
     @staticmethod
     def parse(filename):

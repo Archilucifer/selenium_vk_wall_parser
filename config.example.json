@@ -1,0 +1,16 @@
+{
+  "vk" : {
+    "auth" : {
+      "login" : "",
+      "password" : ""
+    },
+    "urls" : {
+      "feed" : "https://vk.com/feed",
+      "login" : "https://vk.com/login"
+    }
+  },
+  "paths" : {
+    "cache_file" : "cache.txt",
+    "chromedriver" : "chromedriver.exe"
+  }
+}
